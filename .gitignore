@@ -2,3 +2,4 @@ Ice_Bridge.csv
 .ipynb_checkpoints
 constraint_points.csv
 interpolated_bed.nc
+gravityanomaly.nc
